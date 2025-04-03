@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+        void NewMethod() { }
+        void SecondMethod() { }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, THis is a new project for git hub repository, branches, commit. Adding code from Github for Pull!");
