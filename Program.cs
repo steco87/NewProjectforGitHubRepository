@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, THis is a new project for git hub repository, branches, commit. Adding code from Github for Pull!");
+            Console.WriteLine("Adding changhes to Fetch");
         }
     }
 }
