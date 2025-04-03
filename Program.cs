@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, THis is a new project for git hub repository, branches, commit!");
         }
     }
 }
