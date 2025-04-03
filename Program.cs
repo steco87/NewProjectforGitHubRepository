@@ -7,6 +7,8 @@
 
         void ThirdMethod() { }
 
+        void Newmethod() { }
+
           
         static void Main(string[] args)
         {
